@@ -218,10 +218,15 @@ def Chaos3():
     plt.title("Derivative of above")
     
 """
-Diff_eq1 is a function that plots an exponential solution of a differentialequation
-Diff_eq2 is a function that plot a similar exponential solution to the above
-mentioned equation.
-
+Diff_eq1 is a function that returns an exponential solution of a differentialequation, subplot 1.
+Diff_eq2 is a function that returns a similar exponential solution to the above.
+mentioned equation, subplot 2.
+Sine_func is a function that returns a sine equation, subplot 5.
+Cosine_func is a function that returns a cosine equation, subplot 6.
+Derivative1 is a function that returns the derivative of Diff_eq1, subplot 3.
+Derivative2 is a function that returns the derivative of Diff_eq2, subplot 4.
+Derivative3 is a function that returns the derivative of Sine_func, subplot 7.
+Derivative4 is a function that returns the derivative of cosine_func, subplot 8.
 """
 
 def Chaos4():
