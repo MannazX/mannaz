@@ -8,8 +8,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math as m
 
-
-
 v1 = 0.238
 v2 = 5.83
 v3 = -6.07
