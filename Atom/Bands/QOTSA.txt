@@ -1,0 +1,18 @@
+{
+	"band_name" : "Queens of the Stone Age",
+	"genre" : "Alternative Rock/Stoner Rock",
+	"formation_year" : 1996,
+	"country" : "United States",
+	"number_of_albums" : 7,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals_guitars" : "Josh Homme",
+		"guitar_keyboard_lapsteel" : "Troy Van Leeuwen",
+		"bass" : "Michael Shuman",
+		"multi_instruments_2" : "Dean Fertita",
+		"drums" : "John Theodor"
+		},
+	"discography" : ["Self-titled Album (1998)", "Rated R (2000)", "Songs for the Deaf (2002)", "Lullabies to Paralyze (2005)", "Era Vulgaris (2007)", "...Like Clockwork (2013)", "Villains (2017)"],
+	"most_successive" : "Songs for the Deaf",
+	"hitting_singles" : ["No One Knows", "Go with the Flow"]
+}	

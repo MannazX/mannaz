@@ -1,0 +1,15 @@
+{
+	"band_name" : "Alien Weaponry",
+	"genre" : "Thrash metal",
+	"formation_year" : 2010,
+	"country" : "New Zealand",
+	"number_of_albums" : 1,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals-guitars" : "Lewis de Jong",
+		"bass" : "Henry de Jong",
+		"drums" : "Ethan Trembath"
+		},
+	"discography" : ["Tū (2018)"],
+	"most_notable" : ["Rū Ana Te Whenua", "Holding My Breath", "Urutaa", "Rage - It Takes over Again"]
+}

@@ -1,0 +1,15 @@
+{
+	"Wonderful" : "Чудесный",
+	"Wonderfully" : "Чудесно",
+	"Beautiful" : "Красный",
+	"Strong" : "Сильный",
+	"Fat" : "Толстый",
+	"Thin" : "Тонкий",
+	"Nice/Pretty" : "Милый",
+	"Ugly" : "Некрасивый",
+	"Cool" : "Классно",
+	"Big/Large" : "Балшой",
+	"Short" : "Кароткий",
+	"Small/Little" : "Маленький",
+	"Long" : "Длинный"
+}

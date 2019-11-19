@@ -1,0 +1,18 @@
+{
+	"band_name" : "Equilibrium",
+	"genre" : "Folk Metal",
+	"formation_year" : 2001,
+	"country" : "Germany",
+	"number_of_albums" : 6,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals" : "Robert Dahn",
+		"guitars" : "René Berthiaume",
+		"guitars" : "Dom R. Crey",
+		"bass" : "Martin Berger",
+		"drums" : "Tuval Refaeli",
+		"keyboards" : "Skadi Rosenhurst"
+		},
+	"discography" : ["Turis Fratyr (2005)", "Sagas (2008)", "Rekreatur (2010)", "Erdentempel (2014)", "Armageddon (2016)", "Renegades (2019)"],
+	"most_notable" : ["Blut im Auge", "Unbesiegt", "Heimfärt","Himmelsrand","Waldschrein"]
+}	

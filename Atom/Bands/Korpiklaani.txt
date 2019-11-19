@@ -1,0 +1,18 @@
+{
+	"band_name" : "Korpiklaani",
+	"genre" : "Folk metal",
+	"formation_year" : 1993,
+	"country" : "Finland",
+	"number_of_albums" : 13,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals_guitars" : "Jonne Järvelä",
+		"guitars" : "Kalle Savijärvi",
+		"bass" : "Jarkko Aaltonen",
+		"drums" : "Matti Johansson",
+		"violin" : "Toumas Rounakari",
+		"accordion" : "Sami Perttula"
+		},
+	"discography" : ["Hunka Lunka (1996)", "Idja (1999)", "Shamániac (2002)", "Spirit of the Forest (2003)", "Voice of the Wilderness (2005)", "Tales Along These Roads (2006)", "Tervaskanto (2007)", "Korven Kuningas (2008)", "Karkelo (2009)", "Ukon Wacka (2011)", "Manala (2012)", "Noita (2015)", "Kulkija (2018)"],
+	"most_notable" : ["Wooden Pints", "Vodka", "Pili On Pajusta Tehty"]
+}	

@@ -1,0 +1,21 @@
+{
+	"Animal" : "Животное",
+	"Dog" : "Собака",
+	"Cat" : "Кошка",
+	"Bird" : "Птица",
+	"Cow" : "Корова",
+	"Pig" : "Свинья",
+	"Rabbit" : "Крольник",
+	"Snake" : "Смея",
+	"Lion" : "Лев",
+	"Elephant" : "Слон",
+	"Horse (Mare)" : "Лошадь",
+	"Horse (Stallion)" : "Kонь",
+	"Sheep" : "Овца",
+	"Monkey" : "Обезьяна",
+	"Puppy" : "Щенок",
+	"Kitten" : "Котенок",
+	"Giraffe" : "Жираф",
+	"Donkey" : "Осëл",
+	"Mouse" : "Mышь"
+}

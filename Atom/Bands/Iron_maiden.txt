@@ -1,0 +1,16 @@
+{
+  "band_name":,
+  "genre":,
+  "formation_year":,
+  "country":,
+  "number_of_albums":,
+  "is_amazing":,
+  "band_members": {
+    "vocals":"",
+    "guitars":"",
+    "drums":"",
+    "bass":"",
+    },
+  "discography":,
+  "most_notable":,
+}

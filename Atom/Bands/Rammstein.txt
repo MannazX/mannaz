@@ -1,0 +1,18 @@
+{
+	"band_name" : "Rammstein",
+	"genre" : "Industrial metal",
+	"formation_year" : 1994,
+	"country" : "Germany",
+	"number_of_albums" : 7,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals" : "Till Lindemann",
+		"guitars" : "Richard Z. Kruspe",
+    "guitars" : "Paul Landers",
+		"bass" : "Oliver Riedel",
+		"drums" : "Christoph Schneider",
+		"keyboard" : "Christian Lorenz"
+		},
+	"discography" : ["Herzeleid (1995)", "Sehnsucht (1997)", "Mutter (2001)", "Reise, Reise (2004)", "Rosenrot (2005)", "Liebe ist für alle da (2009)", "Untitled Album (2019)"],
+	"most_notable" : ["Ich will", "Du hast", "Mutter", "Mein Herz brennt", "Sonne", "Ich tu dir weh", "Seemann", "Benzin", "Reise, Reise"]
+}

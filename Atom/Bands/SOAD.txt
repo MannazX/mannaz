@@ -1,0 +1,17 @@
+{
+	"band_name" : "System of a Down",
+	"genre" : "Alternative Metal",
+	"formation_year" : 1994,
+	"country" : "United States, Armenia",
+	"number_of_albums" : 5,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals" : "Serj Tankian",
+		"guitar_vocals" : "Daron Malakian",
+		"bass" : "Shavo Odadjian",
+		"drums" : "John Dolmayan"
+		},
+	"discography" : ["Sel-titled album (1998)", "Toxicity (2001)", "Steal This Album (2002)", "Mezmerize (2005)", "Hypnotize (2005)"],
+	"most_successive" : "Toxicity",
+	"hitting_singles" : ["Chop-suey!", "Toxicity"]
+}	

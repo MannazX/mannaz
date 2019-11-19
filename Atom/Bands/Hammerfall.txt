@@ -1,0 +1,17 @@
+{
+	"band_name" : "Hammerfall",
+	"genre" : "Heavy Metal",
+	"formation_year" : 1993,
+	"country" : "Sweden",
+	"number_of_albums" : 11,
+	"is_amazing" : true,
+	"band_members" : {
+		"vocals" : "Joacim Cans",
+		"guitars" : "Oscar Dronjak",
+		"guitars" : "Pontus Norgren",
+		"bass" : "Fredrik Larsson",
+		"drums" : "David Wallin"
+		},
+	"discography" : ["Glory to the Brave (1997)", "Legacy of Kings (1998)", "Renegade (2000)", "Crimson Thunder (2002)", "Chapter V: Unbent, Unbowed, Unbroken (2005)", "Threshold (2006)", "No sacrifice, No Victory (2009)", "Infected (2011)", "(r)Evolution (2014)", "Built to Last (2016)", "Dominion (2019)"],
+	"most_notable" : ["When the Dragon Lies Bleeding", "Hammerfall", "Templars of Steel", "Always Will Be", "Dreamland", "Let the Hammer Fall", "Hammer High"]
+}	
