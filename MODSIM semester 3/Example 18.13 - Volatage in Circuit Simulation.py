@@ -13,9 +13,13 @@ v2 = 5.83
 v3 = -6.07
 
 def Vc(t):
-    """returns the voltage over the capacitor formula."""
+    """returns the voltage of the system formula."""
     return v1 + v2*np.exp(-t/(434*10**-6)) + v3*np.exp(-t/(43.9*10**-6))
 
 t = np.linspace(0,3E-3,1000) #time interval between 0 and 3 milliseconds.
 
 plt.plot(t,Vc(t))
+plt.grid(True)
+plt.title("Voltage of the circuit.")
+plt.xlabel("Time [ms]")
+plt.ylabel("Voltage [V]")
